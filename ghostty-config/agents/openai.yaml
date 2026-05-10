@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ghostty Config"
+  short_description: "Edit Ghostty terminal configuration"
+  default_prompt: "Use $ghostty-config to update my Ghostty terminal configuration."
+
+policy:
+  allow_implicit_invocation: true
