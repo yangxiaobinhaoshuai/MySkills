@@ -7,6 +7,7 @@ Personal Codex skills for terminal configuration and related workflows.
 - `obsidian-sensitive-vault`: manages a personal Obsidian vault as a search-first sensitive-records system with Inbox-first capture and shallow structure.
 - `wezterm-config`: edits WezTerm configuration in `~/.wezterm.lua`.
 - `ghostty-config`: edits Ghostty configuration files and looks up options from the official Ghostty docs.
+- `rime-config`: edits Rime input method `.custom.yaml` patch files (鼠鬚管 / 小狼毫 / iBus-Rime / fcitx5-Rime); bundles the official Rime wiki as references.
 
 ## Usage
 
